@@ -42,6 +42,7 @@ The model is compiled with the RMSprop optimizer and mean squared error loss fun
 ### Evaluation:
 
 The model's performance is evaluated on the test set, and predictions are made. The root mean squared error (RMSE) is calculated to measure the prediction accuracy.
+![Prediction Image](Prediction_LSTM.png)
 
 ### Visualization:
 
